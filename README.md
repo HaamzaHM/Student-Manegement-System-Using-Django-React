@@ -7,8 +7,9 @@
 ### `Pyhton manage.py runserver` <br>
 ### `http://localhost:8000/api/students`
 <p>Make sure before running the react server your django server is running fine.</p>
-<br><br>
-<p>React Frontend</p><br>
+<br>
+<h4>React Frontend.</h4>
+<br>
 <p>For Starting the react Server</p><br>
 
 ### `npm start`
